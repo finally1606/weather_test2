@@ -1,6 +1,6 @@
 [app]
 
-# (str) Title of your application
+# (str) Title of your applicationn
 title = Weather_App_0.1
 
 # (str) Package name
